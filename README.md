@@ -8,7 +8,7 @@
 
 - :computer: Since 2014 I've been programming commercially. The first language I worked with was C#. After two years, I switched into Java, and now I'm immersed in the Ruby world - which is fantastic! :heart_eyes:
 
-- :chart_with_upwards_trend: I've had the change to contribute to many different projects - I'm glad that I had that opportunity. :pray:
+- :chart_with_upwards_trend: I've had the chance to contribute to many different projects - I'm glad I had that opportunity. :pray:
 
 - :motorcycle: I like riding on my motorcycle Honda Monkey which is the cutest on the world!
 
