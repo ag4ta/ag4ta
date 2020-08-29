@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Agata Werszler! 👋
 
-<!--
-**ag4ta/ag4ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :house_with_garden: I'm a backend software engineer based in Gorzów Wielkopolski, Poland. 
 
-Here are some ideas to get you started:
+- :floppy_disk: I started my official IT journey in 2008 when I went to studies, but before that, I used to play computer games, and doing simple computer works like reinstalling Windows Millenium or XP (Do you remember those times?)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :books: I have been graduated master degree (software engineering) in 2013.
+
+- :computer: Since 2014 I've been programming commercially. The first language I worked with was C#. After two years, I switched into Java, and now I'm immersed in the Ruby world - which is fantastic! :heart_eyes:
+
+- :chart_with_upwards_trend: I've had the change to contribute to many different projects - I'm glad that I had that opportunity. :pray:
+
+- :motorcycle: I like riding on my motorcycle Honda Monkey which is the cutest on the world!
+
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ag4ta/">LinkedIn</a>
