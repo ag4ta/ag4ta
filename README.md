@@ -2,7 +2,7 @@
 
 - :house_with_garden: I'm a backend software engineer based in Gorzów Wielkopolski, Poland. 
 
-- :floppy_disk: I started my official IT journey in 2008 when I went to studies, but before that, I used to play computer games, and doing simple computer works like reinstalling Windows Millenium or XP (Do you remember those times?)
+- :floppy_disk: I started my official IT journey in 2008 when I went to studies, but before that, I used to play computer games, and doing simple computer works like reinstalling Windows Millenium or XP (Do you remember those times? 🤔)
 
 - :books: I have been graduated master degree (software engineering) in 2013.
 
