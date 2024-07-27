@@ -12,6 +12,6 @@
 
 - :chart_with_upwards_trend: I've had the chance to contribute to many different projects - I'm glad I had that opportunity. :pray:
 
-- :motorcycle: I like riding on my motorcycle Honda Monkey which is the cutest on the world!
+- :motorcycle: I like riding my motorcycle Honda Monkey which is the cutest on the world!
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ag4ta/">LinkedIn</a>
